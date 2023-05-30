@@ -1,4 +1,1 @@
-<svg viewBox="0 0 20 20" height="16" width="16" fill="none">
-    <path d="M14 7L8.5 12.5L6 10" stroke="var(--color-background-default)" stroke-width="2" stroke-linecap="round"
-        stroke-linejoin="round"></path>
-</svg>
+<svg width="16" height="16" fill="none" viewBox="0 0 20 20"><path stroke="var(--color-background-default)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 7L8.5 12.5L6 10"/></svg>
